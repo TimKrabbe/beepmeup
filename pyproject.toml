@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "beepmeup"
+version = "0.1.0"
+description = "A simple cross-platform beep notification for long-running scripts"
+readme = "README.md"
+requires-python = ">=3.8"
+authors = [
+    {name = "Tim Krabbe", email = "deine@email.com"}
+]

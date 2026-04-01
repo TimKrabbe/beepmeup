@@ -1,0 +1,1 @@
+from .beepmeup import beep
