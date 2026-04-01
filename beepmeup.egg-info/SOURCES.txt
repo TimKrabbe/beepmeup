@@ -1,8 +1,0 @@
-README.md
-pyproject.toml
-beepmeup/__init__.py
-beepmeup/beepmeup.py
-beepmeup.egg-info/PKG-INFO
-beepmeup.egg-info/SOURCES.txt
-beepmeup.egg-info/dependency_links.txt
-beepmeup.egg-info/top_level.txt
